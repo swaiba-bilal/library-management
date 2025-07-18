@@ -43,7 +43,7 @@ Java Packages
 Scanner for console input
 Collections and Comparators for sorting
 **🙋 Author
-Swaiba Bilal
+Swaeba Bilal
 Java Developer & Student | OOP & Data Structures Enthusiast**
 
 
