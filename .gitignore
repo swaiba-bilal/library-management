@@ -1,23 +1,16 @@
-# Ignore Java compiled class files
+# Ignore compiled Java files
 *.class
 
-# Ignore log files
-*.log
-
-# Ignore OS-generated files
-.DS_Store
+# Ignore system files
 Thumbs.db
+.DS_Store
 
-# Ignore temporary or backup files
+# Ignore temporary/backup files
 *.tmp
 *.bak
 
-# Ignore IDE/editor settings (optional, safe to include)
-.idea/
-.vscode/
-*.iml
-
-# Ignore build output folders (if used in future)
+# Ignore build/output directories (if used in future)
 bin/
 build/
 out/
+
