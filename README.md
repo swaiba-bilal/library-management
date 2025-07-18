@@ -1,4 +1,5 @@
 # 📚 Library Management System
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 This is a console-based Java application that simulates a simple Library Management System. It allows users to manage a collection of books through functionalities like adding, searching, sorting, checking out, and returning books. The project follows object-oriented programming principles and is organized using Java packages.
 
